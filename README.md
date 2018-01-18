@@ -2,7 +2,11 @@
 Create sample website
 
 <p align="left" >
-  <img src="shin_full_page.png" alt="Sample" width="260"/>
-</p
+  <img src="shin_page.png" alt="Sample gif" width="260"/>
+</p>
+
+![Alt Text](shin_page.gif)
+
+
 
 
